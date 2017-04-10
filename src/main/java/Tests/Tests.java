@@ -50,7 +50,7 @@ public class Tests extends BaseScript {
         Login();
         CheckMenu();
         //LogOut();
-        //quit();
+        quit();
     }
 
     public void PageLoad() {
